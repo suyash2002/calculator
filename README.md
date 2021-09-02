@@ -1,6 +1,6 @@
 # calculator
 
-Beginner flutter project.
+Beginner project.
 A simple calculator app made with flutter.
 
 
